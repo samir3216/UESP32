@@ -18,9 +18,13 @@ UESP32 é um client udp que manda mensagens ao host (computador) para quando rec
 
 
 Requirements/Requisitos
+
   3 Botões/Buttons
+  
   ST7567 (Opcional/optional)
+  
   ESP32 Series
+  
 
 ![image](https://github.com/user-attachments/assets/f53eb632-d14f-48d3-85d7-d7df188e1f0a)
 
